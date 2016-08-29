@@ -1,0 +1,10 @@
+cms/
+framework/
+reports/
+serve/
+silverstripe-cache/
+silverstripe-green/
+silverstripe-serialised-dbfields/
+siteconfig/
+vendor/
+_ss_environment.php

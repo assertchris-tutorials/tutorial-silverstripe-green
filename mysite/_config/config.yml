@@ -1,0 +1,14 @@
+---
+Name: mysite
+After:
+    - 'framework/*'
+    - 'cms/*'
+---
+
+SSViewer:
+  theme: 'simple'
+Debug:
+  friendly_error_httpcode: true
+
+UncleCheese\Green\Green:
+  design_folder: '$ThemeDir/green'
